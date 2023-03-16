@@ -62,6 +62,10 @@
 
 ### Key Features <a name="key-features"></a>
 
+- [ ] Checks if a person has correct name
+- [ ] Capitalizes name
+- [ ] Trims a persons name
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -101,9 +105,9 @@ FUTURE FEATURES
 
 ## 🔭 Future Features <a name="future-features"></a>
 
->
-
-- [ ] **[I would like to add more data in the future]**
+- [ ] List all people
+- [ ] List all books
+- [ ]Create a rental and list all rentals for a person
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
