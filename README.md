@@ -101,9 +101,10 @@ FUTURE FEATURES
 
 ## 🔭 Future Features <a name="future-features"></a>
 
->
 
-- [ ] **[I would like to add more data in the future]**
+- [ ] Checks if a person has correct name
+- [ ] Capitalizes name
+- [ ] Trims a persons name
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
