@@ -7,13 +7,13 @@ require_relative './rental.rb'
 require_relative './classroom.rb'
 
 class App
-    attr_accessor :books, :people, :rentals, :classrooms
+    attr_accessor :books, :people, :rentals, :classroom
 
     def initialize
         @books = []
         @people = []
         @rentals = []
-        @classrooms = ['Full-stack Development']
+        @classroom = ['Full-stack Development']
     end
 
     def list_books
@@ -71,7 +71,7 @@ class App
         create_student
         end
 
-    @people << Student.new(name,age,classrooms,parent_permission: permission)
+    @people << Student.new(classroom,age,name,parent_permission: permission)
     puts 'Student created successfully!'
     end
 
