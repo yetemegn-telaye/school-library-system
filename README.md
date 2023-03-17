@@ -115,7 +115,7 @@ FUTURE FEATURES
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/haliljon/school-library-system/issues).
+Feel free to check the [issues page](https://github.com/yetemegn-telaye/school-library-system/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
