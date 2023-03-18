@@ -86,7 +86,7 @@ class App
 
   def create_rental
     puts 'Choose a book from the following list using the numbers beside it'
-    books.each_with_index do |index, book|
+    books.each_with_index do |book, index|
       puts "#{index} Title: #{book.title}, Author #{book.author}"
     end
     book_index = gets.chomp.to_i
