@@ -91,7 +91,7 @@ class App
     end
     book_index = gets.chomp.to_i
     puts 'Select a person that wants to rent a book (choose a number)'
-    people.each_with_index do |index, person|
+    people.each_with_index do |person, index|
       puts "#{index} [#{person.class}] Name: #{person.name}, Age: #{person.age}, ID: #{person.id}"
     end
     person_index = gets.chomp.to_i
